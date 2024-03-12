@@ -1,8 +1,8 @@
 export default  {
-  'github-projects': {
-    enabled: false,
-    resolve: './src/plugins/github-projects'
-  },
+  // 'github-projects': {
+  //   enabled: false,
+  //   resolve: './src/plugins/github-projects'
+  // },
   'github-projectsss': {
     enabled: true,
     resolve: './src/plugins/github-projectsss'
